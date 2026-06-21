@@ -1,0 +1,6 @@
+{
+  "name": "Karama Fancy",
+  "description": "Exquisite high-end luxury watch and fine jewelry boutique",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
